@@ -1,2 +1,0 @@
-hoten = "Lĩnh"
-print(hoten)

@@ -10,4 +10,4 @@ tuoi = int(input("Nhập tuổi: "))
 #output
 print ("Tuổi là: ", tuoi)
 print(f"{hoten.title()} có tuổi là: {tuoi}")
-print("{} có tuổi là: {} ".format(hoten, tuoi)) 
+print("{} có tuổi là: {} ".format(hoten, tuoi))
