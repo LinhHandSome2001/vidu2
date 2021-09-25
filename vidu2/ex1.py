@@ -1,0 +1,2 @@
+hoten = "Lĩnh"
+print(hoten)
