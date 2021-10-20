@@ -3,3 +3,4 @@ def luythua(n):
     return x
 tinhmu = luythua(2)
 print(tinhmu(2))
+
